@@ -14,4 +14,9 @@ export const navbarItems = [
         key: 'watermark',
         path: '/job/detail'
     },
+    {
+        label: '订单',
+        key: 'order',
+        path: '/order'
+    },
 ]
